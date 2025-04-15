@@ -23,18 +23,18 @@ The following **optional** features are implemented:
 
 Here's a walkthrough of implemented features:
 
+
 <img src='http://i.imgur.com/link/to/your/gif/file.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+![Screen_Recording_2025_04_14_at_10_53_52_PM_mov_V1](https://github.com/user-attachments/assets/5a2467a0-6d38-499b-8ea9-79fefad8387b)
+
 
 <!-- Replace this with whatever GIF tool you used! -->
-GIF created with ...  
+GIF created with kapwing.
 <!-- Recommended tools:
 [Kap](https://getkap.co/) for macOS
 [ScreenToGif](https://www.screentogif.com/) for Windows
 [peek](https://github.com/phw/peek) for Linux. -->
 
-## Notes
-
-Describe any challenges encountered while building the app.
 
 ## License
 
